@@ -1,0 +1,17 @@
+current directory: /Users/programaciondaniel/Desktop/Programación/Proyectos/Macabiada/slate/vendor/cache/ruby/2.3.0/gems/fast_blank-1.0.0/ext/fast_blank
+/Users/programaciondaniel/.rvm/rubies/ruby-2.3.0/bin/ruby -r ./siteconf20181121-59336-1l9tn84.rb extconf.rb
+Ignoring ffi-1.9.25 because its extensions are not built. Try: gem pristine ffi --version 1.9.25
+Ignoring redcarpet-3.4.0 because its extensions are not built. Try: gem pristine redcarpet --version 3.4.0
+creating Makefile
+
+current directory: /Users/programaciondaniel/Desktop/Programación/Proyectos/Macabiada/slate/vendor/cache/ruby/2.3.0/gems/fast_blank-1.0.0/ext/fast_blank
+make "DESTDIR=" clean
+
+current directory: /Users/programaciondaniel/Desktop/Programación/Proyectos/Macabiada/slate/vendor/cache/ruby/2.3.0/gems/fast_blank-1.0.0/ext/fast_blank
+make "DESTDIR="
+compiling fast_blank.c
+linking shared-object fast_blank.bundle
+
+current directory: /Users/programaciondaniel/Desktop/Programación/Proyectos/Macabiada/slate/vendor/cache/ruby/2.3.0/gems/fast_blank-1.0.0/ext/fast_blank
+make "DESTDIR=" install
+/usr/local/opt/coreutils/bin/ginstall -c -m 0755 fast_blank.bundle ./.gem.20181121-59336-ilc48d

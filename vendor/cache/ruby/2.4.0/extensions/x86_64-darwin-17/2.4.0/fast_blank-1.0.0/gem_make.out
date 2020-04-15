@@ -1,0 +1,15 @@
+current directory: /Users/simonschool/Desktop/slate/vendor/cache/ruby/2.4.0/gems/fast_blank-1.0.0/ext/fast_blank
+/Users/simonschool/.rvm/rubies/ruby-2.4.5/bin/ruby -r ./siteconf20181115-24205-18f0hap.rb extconf.rb
+creating Makefile
+
+current directory: /Users/simonschool/Desktop/slate/vendor/cache/ruby/2.4.0/gems/fast_blank-1.0.0/ext/fast_blank
+make "DESTDIR=" clean
+
+current directory: /Users/simonschool/Desktop/slate/vendor/cache/ruby/2.4.0/gems/fast_blank-1.0.0/ext/fast_blank
+make "DESTDIR="
+compiling fast_blank.c
+linking shared-object fast_blank.bundle
+
+current directory: /Users/simonschool/Desktop/slate/vendor/cache/ruby/2.4.0/gems/fast_blank-1.0.0/ext/fast_blank
+make "DESTDIR=" install
+/usr/local/opt/coreutils/bin/ginstall -c -m 0755 fast_blank.bundle ./.gem.20181115-24205-1scx78d

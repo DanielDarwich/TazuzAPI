@@ -4,8 +4,10 @@ language: ruby
 
 rvm:
   - 2.3.0
-  - 2.4.1
-  - 2.4.5
 
 cache: bundler
+before_script:
+  - unset JRUBY_OPTS
+  - unset _JAVA_OPTIONS
 script: bundle exec middleman build
+script: ruby -Ilib exe/rake
